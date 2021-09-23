@@ -1,0 +1,26 @@
+.content {
+  margin: 1rem;
+  padding: 1rem;
+  background-color: #230052;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 12px;
+  text-align: center;
+  color: white;
+}
+
+.content h2 {
+  font-size: 2rem;
+  color: #f7e702;
+}
+
+.content h3 {
+  color: #eccf77;
+  margin: 0;
+  font-size: 1rem;
+}
+
+.content img{
+  width: 175px;
+}
+
+.card_box:hover.zoom-effect {-webkit-transform:scale(1.1); /* Safari and Chrome */-moz-transform:scale(1.1); /* Firefox */-ms-transform:scale(1.1); /* IE 9 */-o-transform:scale(1.1); /* Opera */transform:scale(1.1);}
